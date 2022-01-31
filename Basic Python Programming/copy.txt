@@ -1,0 +1,4 @@
+hello 
+This text is from write file
+Hi 
+This text is from append file
